@@ -1,2 +1,2 @@
-# ImageJ_Macros_for_Image_Analysis
+# ImageJ Macros for Image Analysis
 Custom ImageJ Macros for performing basic image processing
